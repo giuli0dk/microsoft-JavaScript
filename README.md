@@ -1,2 +1,2 @@
-# microsoft-ecmaScript
-This is a training repository for learning ecmaScript
+# microsoft-JavaScript
+This is a training repository for learning JavaScript
